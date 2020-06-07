@@ -7,8 +7,8 @@ dtTidy
 
 Variable                                   | Comments
 -------------------------------------------|-----------
-Subject                                    |  subject identifier of volunteer (1-30)
 ActivityName                               |  name ofactivity subject performed (LAYING,SITTING,STANDING,WALKING,WALKING_DOWNSTAIRS,WALKING_UPSTAIRS)
+Subject                                    |  subject identifier of volunteer (1-30)
 timeBodyAccelerometerMeanX                 |  mean of tBodyAcc-mean()-X
 timeBodyAccelerometerMeanY                 |  mean of tBodyAcc-mean()-Y
 timeBodyAccelerometerMeanZ                 |  mean of tBodyAcc-mean()-Z
@@ -104,7 +104,7 @@ Version 1.0
  ================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
-DITEN - Universit‡ degli Studi di Genova.
+DITEN - Universit√† degli Studi di Genova.
 Via Opera Pia 11A, I-16145, Genoa, Italy.
 activityrecognition@smartlab.ws
 www.smartlab.ws
